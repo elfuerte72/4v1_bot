@@ -1,0 +1,10 @@
+aiogram
+langchain>=0.0.252
+langchain-community>=0.0.16
+langchain-openai>=0.0.2
+openai>=1.0.0
+python-dotenv
+tavily-python
+streamlit
+pydantic>=2.0.0
+langsmith
